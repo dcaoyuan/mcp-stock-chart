@@ -27,3 +27,7 @@ You can add it to your OpenClaw or AI Agent's MCP configuration JSON:
   }
 }
 ```
+
+## Example
+<img src="./examples/chart_01.png" />
+
