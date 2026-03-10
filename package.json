@@ -1,6 +1,6 @@
 {
   "name": "mcp-stock-chart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An MCP server that generates financial stock charts and technical analysis images.",
   "main": "dist/index.js",
   "type": "module",
@@ -29,5 +29,9 @@
   "devDependencies": {
     "@types/node": "^20.0.0",
     "typescript": "^5.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcaoyuan/mcp-stock-chart/"
   }
 }
